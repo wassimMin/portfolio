@@ -1,3 +1,6 @@
 for work now :
----- header
----- landing page
+---- header : 
+            make the logo and navigation 
+            
+---- Content Page:
+            
