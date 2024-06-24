@@ -1,6 +1,1 @@
-for work now :
----- header : 
-            make the logo and navigation 
-            
----- Content Page:
-            
+https://mac-template.webflow.io/
